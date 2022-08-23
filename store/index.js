@@ -19,7 +19,7 @@ function Store() {
     frappuccino: [],
     blended: [],
     teavana: [],
-    desert: [],
+    dessert: [],
   };
   this.isValid = ({ res, category = null, menuId = null, name = null }) => {
     if (
